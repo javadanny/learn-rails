@@ -1,5 +1,7 @@
 # README
 
+Learning Rails with a free .pdf from Kehoe
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
