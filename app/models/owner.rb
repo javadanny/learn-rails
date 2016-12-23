@@ -17,4 +17,3 @@ class Owner
       countdown = (birthday.next_year - today).to_i
     end
   end
-end
